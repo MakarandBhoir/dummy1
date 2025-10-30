@@ -1,2 +1,1 @@
-# dummy1
-Repository created by MCP server
+this is created by mcp server
